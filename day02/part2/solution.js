@@ -1,4 +1,4 @@
-const { input } = require('./input2');
+const { input } = require('./input');
 
 const solution = (input) => {
   const letter = {
